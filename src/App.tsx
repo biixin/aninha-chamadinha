@@ -85,7 +85,7 @@ function App() {
     <div className="fixed inset-0 bg-gradient-to-br from-[#0a3d2c] to-[#075e40] flex items-center justify-center overflow-hidden">
       <video
         ref={videoRef}
-        src="https://console-typebot-minio.kjufc9.easypanel.host/api/v1/buckets/hot-mj/objects/download?preview=true&prefix=mae-chamada.mp4&version_id=null"
+        src="https://console-typebot-minio.kjufc9.easypanel.host/api/v1/buckets/hot-mj/objects/download?preview=true&prefix=mis-chamada.mp4&version_id=null"
         className="absolute inset-0 w-full h-full object-cover"
         autoPlay
         muted
